@@ -2,7 +2,7 @@
 
 HID Audio Controller using Seeeduino Xiao
 
-<img src="https://github.com/akita11/XiaoAudioController/blob/master/XiaoAudioController.jpg" width="240px">
+<img src="https://github.com/akita11/XiaoAudioController/blob/main/XiaoAudioController.jpg" width="240px">
 
 ## How to build
 
